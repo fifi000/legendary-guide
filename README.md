@@ -1,3 +1,5 @@
+# Rick and Morty Story Generator
+
 The "Rick and Morty Story Generator" is an imaginative application created to craft captivating and original narratives inspired by the beloved animated TV series "Rick and Morty." This innovative platform offers fans a creative space to enjoy fresh and unique stories featuring their favorite characters from the show.
 - - - 
 ## Presentation of the Application

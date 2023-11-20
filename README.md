@@ -2,7 +2,7 @@ The "Rick and Morty Story Generator" is an imaginative application created to cr
 - - - 
 ## Presentation of the Application
 
-![[rick in poland.png]]
+![rick in poland](./rick%20in%20poland.png)
 
 In this bizarre and mind-bending episode of Rick and Morty, the duo embarks on a seemingly innocent interdimensional escapade that takes a chaotic turn when Rick, the eccentric and brilliant scientist, loses himself in Poland—a country known for its rich history, culture, and enigmatic folklore.
 
